@@ -26,4 +26,5 @@ El objetivo es lograr un sistema donde la presión de un botón en un dispositiv
 
 Este proyecto está licenciado bajo la Licencia **MIT**.
 
-Consulte el archivo [LICENSE](LICENSE) para obtener los detalles completos.
+
+Consulte el archivo [LICENSE](LICENSE.txt) para obtener los detalles completos.
